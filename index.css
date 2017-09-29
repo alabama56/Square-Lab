@@ -1,0 +1,24 @@
+.square{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    margin: 10px;
+    float: left;
+}
+
+button {
+    display: block;
+    height: 50px;
+    width: 150px;
+    background-color: peru;
+    font-size: 18px;
+}
+
+h3 {
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 32px;
+    opacity: 0;
+    
+}
